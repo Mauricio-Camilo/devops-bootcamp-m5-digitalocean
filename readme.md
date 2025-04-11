@@ -113,4 +113,4 @@ Create server and deploy application on DigitalOcean
 
   Once this is done, SSH access with the new user is fully configured.
   
-  ![Diagram](./images/image1.png)
+  ![Diagram](./images/image5.png)
