@@ -52,7 +52,7 @@ Create server and deploy application on DigitalOcean
 
 - Connecting to the Droplet
 
-To connect to the droplet, use the command:
+  To connect to the droplet, use the command:
 
   ```
     ssh root@<DROPLET_IP>
@@ -95,7 +95,7 @@ To connect to the droplet, use the command:
 
   This allows the user to execute commands with sudo privileges. However, SSH access is not yet possible with the new user because the SSH key permissions are not yet configured.
 
-T  o fix this, while logged into the server, switch to the new user account, then:
+  To fix this, while logged into the server, switch to the new user account, then:
 
   Create a .ssh directory:
 
